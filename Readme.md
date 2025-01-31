@@ -18,23 +18,23 @@ Check out the live demo and screenshots:
 - Node.js (v18+ recommended)
 - npm (v9+ recommended)
 
-### Installation
+### Cloning the repository
 
-1. Clone the repository:
 ```bash
 git clone https://github.com/amrit1004/project.git
-
-2. Navigate to the project directory
-```bash
 cd project
+```
 
-3.Install the dependencies
+### Install the dependencies:
+
 ```bash
 npm install
+```
 
-4.Start development server:
+### Start development server:
 ```bash
 npm run dev
+```
 
 The application will be running at:
 http://localhost:5173
